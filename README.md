@@ -1,1 +1,1 @@
-# fullStackJSPracticeAndProjects
+This is my repository for all my full stack javascript projects and practice. Practice is filled with files that are me practicing the fundamentals of full stack engineering. The projects file is filled with projects that apply those skills I learned throughout my time learning in school and my own research. 
