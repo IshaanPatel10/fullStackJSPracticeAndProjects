@@ -1,0 +1,17 @@
+.style{
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", serif
+
+}
+
+#div-1-style{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.style.style2{
+    font-size: 24px;
+}
+#div-2-style{
+    background-color: hsl(109, 97%, 88%);
+}
