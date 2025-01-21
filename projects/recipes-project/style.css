@@ -1,0 +1,25 @@
+/* Apply flexbox to center the content */
+body {
+    text-align: center;        
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 20px;
+    background-color: rgba(252,239,222,255);   
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover{
+    color: #555;       
+}
+
+ul {
+    list-style-type: none;
+    font-size: 40px;
+    
+
+}

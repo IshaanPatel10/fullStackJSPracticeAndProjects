@@ -1,0 +1,82 @@
+body{
+    list-style-type: none;
+    background-color: rgba(252,239,222,255);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;  
+}
+
+h1{
+    text-align: center;
+}
+#main-div > div{
+    width: 80%; /* Set a width (or use max-width for responsiveness) */
+    max-width: 2000px; /* Optional: Max width for better control */
+    padding: 20px;
+    
+    border-radius: 10px;
+    background-color: rgba(252,239,222,255);
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+#second-div {
+    display: flex; /*Without this the ing div would go to the bottom. Display:Flex makes all the child divs aligned horizontally.  */
+    max-width: 500px;
+   
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-top: 0;  /* Align at the top */
+    margin-bottom: 20px; /* Optional: Space between sections */
+    
+}
+div{
+    
+}
+
+img{
+    border: 2px solid #000;
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+#desc-div {
+    max-width: 500px;
+    background-color: white;
+    text-align: center;
+    
+}
+#ing-div{
+    max-width: 500px;
+    
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+   
+}
+
+#headers{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+#ing{
+    font-size: 10px;
+}
+
+#paragraph{
+    text-align: left;
+    font-size: 10px;
+    
+}
+
+ul{
+    list-style-type: none;
+    margin-top: 0;
+    padding-left: 0;
+}
